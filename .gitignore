@@ -1,0 +1,16 @@
+# Global
+node_modules/
+.env
+.DS_Store
+
+# Frontend build
+frontend/build/
+
+# Logs
+logs
+*.log
+
+# Optional
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
