@@ -34,28 +34,18 @@ This is the backend API for the EventBook booking app built with Node.js, Expres
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/eventbook-backend.git
-cd eventbook-backend
+git clone https://github.com/yourusername/eventbook.git
+cd server
 
-
-Install dependencies
-
-npm install
-# or
-yarn install
 Install dependencies:
-
-bash
-Copy
-Edit
 npm install
 Create a .env file with:
 
 PORT=5000
 MONGO_URI=your-mongodb-uri
 JWT_SECRET=your-secret
-Run the server:
 
+Run the server:
 npm run dev
 
 API Endpoints
