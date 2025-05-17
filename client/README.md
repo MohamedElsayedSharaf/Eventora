@@ -28,5 +28,5 @@ This is the frontend application for the EventBook booking app built with React 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/eventbook-frontend.git
-cd eventbook-frontend
+git clone https://github.com/yourusername/eventbook.git
+cd client
